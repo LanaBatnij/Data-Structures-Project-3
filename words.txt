@@ -1,0 +1,6 @@
+good:fine#excellent#great
+happy:joyful#content#pleased
+big:large#huge#gigantic
+small:tiny#miniature#little
+smart:intelligent#clever#bright
+new:fresh#modern#novel
